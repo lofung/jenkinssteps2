@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Good morning, LAU KK, Welcome to COMP367</h2>
+<h2>Good afternoon, LAU KK, Welcome to COMP367</h2>
 </body>
 </html>
