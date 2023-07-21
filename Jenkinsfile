@@ -10,7 +10,7 @@ pipeline {
                 // Build the Maven project
 
                 bat 'mvn clean package'
-                bat 'mvn build'
+                bat 'mvn package'
             }
         }
     }
