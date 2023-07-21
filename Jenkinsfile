@@ -8,8 +8,9 @@ pipeline {
                 checkout scm
 
                 // Build the Maven project
-                echo "hello wolrd"
-                //sh 'mvn clean package'
+
+                bat 'mvn clean package'
+                bat 'mvn build'
             }
         }
     }
